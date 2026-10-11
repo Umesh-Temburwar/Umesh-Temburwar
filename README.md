@@ -1,16 +1,20 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ============================================================ -->
+<!--                          HEADER                              -->
+<!-- ============================================================ -->
+
 <div align="center">
 
+<!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Umesh%20Temburwar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CSE%20Graduate%20%7C%20Full-Stack%20Developer%20%7C%20Aspiring%20Software%20Engineer&descSize=17&descAlignY=60&animation=fadeIn" alt="Header" width="100%" />
 
-</div>
-
+<!-- Typing animation -->
 <a href="https://github.com/Umesh-Temburwar">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+scalable+full-stack+web+apps;React+%7C+Node.js+%7C+TypeScript+%7C+MongoDB;Exploring+AI%2FML+%26+Cloud+Computing;Always+learning.+Always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+scalable+full-stack+web+apps;React+%7C+Node.js+%7C+TypeScript+%7C+MongoDB;Exploring+AI%2FML+%26+Cloud+Computing;Always+learning.+Always+shipping" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
+<!-- Social links -->
 <a href="mailto:umeshtemburwar2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/Umesh-Temburwar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.instagram.com/umesh_temburwar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
@@ -19,15 +23,16 @@
 
 <br/><br/>
 
-<!-- ===================== PROFILE VIEWS ===================== -->
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Umesh-Temburwar&label=Profile%20Views&color=2c5364&style=flat-square" alt="Profile Views" />
-</p>
+<!-- Profile views -->
+<img src="https://komarev.com/ghpvc/?username=Umesh-Temburwar&label=Profile%20Views&color=2c5364&style=flat-square" alt="Profile Views" />
 
 </div>
 
 ---
+
+<!-- ============================================================ -->
+<!--                          ABOUT ME                            -->
+<!-- ============================================================ -->
 
 ## 👨‍💻 About Me
 
@@ -46,6 +51,10 @@ I'm passionate about building responsive web applications and solving real-world
 | 📫 **Reach me** | [umeshtemburwar2002@gmail.com](mailto:umeshtemburwar2002@gmail.com) |
 
 ---
+
+<!-- ============================================================ -->
+<!--                         TECH STACK                           -->
+<!-- ============================================================ -->
 
 ## 🛠️ Tech Stack
 
@@ -84,18 +93,26 @@ I'm passionate about building responsive web applications and solving real-world
 
 ---
 
+<!-- ============================================================ -->
+<!--                     FEATURED PROJECTS                        -->
+<!-- ============================================================ -->
+
 ## 🚀 Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
 | 🌐 [**Developer Portfolio**](https://umeshtemburwar.vercel.app/) | Personal portfolio showcasing my projects, skills, and journey in software engineering. | React |
-| 🎓 **EdTech learning platform** | EdTech learning platform with courses, quizzes, assignments, certificates, and role-based React dashboards backed by Node/Express APIs. | React · Node.js · Express · Supabase |
+| 🎓 **EdTech Learning Platform** | Learning platform with courses, quizzes, assignments, certificates, and role-based React dashboards backed by Node/Express APIs. | React · Node.js · Express · Supabase |
 | 📦 **Inventory Management System** | Full-stack application for tracking stock, managing items, and streamlining inventory workflows. | React · Node.js · MongoDB |
 | 🏆 **ByteFest 2K25 Website** | Official website for the ByteFest 2K25 technical fest, where I served as website developer and core organizer. | Web |
 
 > 🔗 *Add repository links to the projects above as you publish them.*
 
 ---
+
+<!-- ============================================================ -->
+<!--                       CERTIFICATIONS                         -->
+<!-- ============================================================ -->
 
 ## 📜 Certifications
 
@@ -106,26 +123,34 @@ I'm passionate about building responsive web applications and solving real-world
 
 ---
 
+<!-- ============================================================ -->
+<!--                        GITHUB STATS                          -->
+<!-- ============================================================ -->
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/Umesh-Temburwar">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Umesh-Temburwar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true" alt="Umesh's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Umesh-Temburwar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true" alt="Umesh's GitHub Stats" />
 </a>
 <a href="https://github.com/Umesh-Temburwar">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umesh-Temburwar&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umesh-Temburwar&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/Umesh-Temburwar">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Umesh-Temburwar&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Contribution Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umesh-Temburwar&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Contribution Streak" />
 </a>
 
 </div>
 
 ---
+
+<!-- ============================================================ -->
+<!--                     CURRENTLY LEARNING                       -->
+<!-- ============================================================ -->
 
 ## 🌱 Currently Learning
 
@@ -135,6 +160,10 @@ I'm passionate about building responsive web applications and solving real-world
 - 🤖 AI/ML fundamentals
 
 ---
+
+<!-- ============================================================ -->
+<!--                       LET'S CONNECT                          -->
+<!-- ============================================================ -->
 
 ## 🤝 Let's Connect
 
@@ -150,6 +179,7 @@ I'm open to software development opportunities, collaborations, and conversation
 
 <br/><br/>
 
+<!-- Footer banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" alt="Footer" width="100%" />
 
 </div>
