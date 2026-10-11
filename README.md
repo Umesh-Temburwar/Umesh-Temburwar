@@ -1,7 +1,9 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Umesh%20Temburwar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CSE%20Graduate%20%7C%20Aspiring%20Software%20Engineer&descSize=17&descAlignY=60&animation=fadeIn" alt="Header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Umesh%20Temburwar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CSE%20Graduate%20%7C%20Full-Stack%20Developer%20%7C%20Aspiring%20Software%20Engineer&descSize=17&descAlignY=60&animation=fadeIn" alt="Header" width="100%" />
+
+</div>
 
 <a href="https://github.com/Umesh-Temburwar">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+scalable+full-stack+web+apps;React+%7C+Node.js+%7C+TypeScript+%7C+MongoDB;Exploring+AI%2FML+%26+Cloud+Computing;Always+learning.+Always+shipping" alt="Typing SVG" />
