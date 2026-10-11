@@ -89,7 +89,7 @@ I'm passionate about building responsive web applications and solving real-world
 | Project | Description | Tech |
 |---|---|---|
 | 🌐 [**Developer Portfolio**](https://umeshtemburwar.vercel.app/) | Personal portfolio showcasing my projects, skills, and journey in software engineering. | React |
-| 🎓 **Coredev Academy** | EdTech learning platform with courses, quizzes, assignments, certificates, and role-based React dashboards backed by Node/Express APIs. | React · Node.js · Express · Supabase |
+| 🎓 **EdTech learning platform** | EdTech learning platform with courses, quizzes, assignments, certificates, and role-based React dashboards backed by Node/Express APIs. | React · Node.js · Express · Supabase |
 | 📦 **Inventory Management System** | Full-stack application for tracking stock, managing items, and streamlining inventory workflows. | React · Node.js · MongoDB |
 | 🏆 **ByteFest 2K25 Website** | Official website for the ByteFest 2K25 technical fest, where I served as website developer and core organizer. | Web |
 
