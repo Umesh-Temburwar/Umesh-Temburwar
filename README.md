@@ -7,9 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+scalable+full-stack+web+apps;React+%7C+Node.js+%7C+TypeScript+%7C+MongoDB;Exploring+AI%2FML+%26+Cloud+Computing;Always+learning.+Always+shipping" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<!-- ===================== SOCIAL LINKS ===================== -->
+<br/><br/>
 
 <a href="mailto:umeshtemburwar2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/Umesh-Temburwar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -19,7 +17,11 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Umesh-Temburwar&label=Profile%20Views&color=2c5364&style=flat-square" alt="Profile Views" />
+<!-- ===================== PROFILE VIEWS ===================== -->
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Umesh-Temburwar&label=Profile%20Views&color=2c5364&style=flat-square" alt="Profile Views" />
+</p>
 
 </div>
 
@@ -106,10 +108,18 @@ I'm passionate about building responsive web applications and solving real-world
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Umesh-Temburwar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umesh-Temburwar&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages" />
+<a href="https://github.com/Umesh-Temburwar">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Umesh-Temburwar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true" alt="Umesh's GitHub Stats" />
+</a>
+<a href="https://github.com/Umesh-Temburwar">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umesh-Temburwar&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages" />
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Umesh-Temburwar&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
+<br/><br/>
+
+<a href="https://github.com/Umesh-Temburwar">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Umesh-Temburwar&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Contribution Streak" />
+</a>
 
 </div>
 
