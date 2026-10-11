@@ -7,13 +7,13 @@
   </p>
 
   <p>
-    <a href="https://github.com/umeshtemburwar2002-alt">
-      <img src="https://komarev.com/ghpvc/?username=umeshtemburwar2002-alt&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <a href="https://github.com/Umesh-Temburwar">
+      <img src="https://komarev.com/ghpvc/?username=Umesh-Temburwar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
     </a>
   </p>
   
   <!-- Typing SVG (Animated text fallback) -->
-  <a href="https://github.com/umeshtemburwar2002-alt">
+  <a href="https://github.com/Umesh-Temburwar">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&lines=B.Tech+CSE+Student;Full-Stack+Web+Developer;Exploring+AI%2FML+%26+Cloud;Always+Learning+and+Building" alt="Typing SVG" />
   </a>
 </div>
@@ -76,10 +76,10 @@ Here are the technologies and tools I work with:
 
 ## 💻 Featured Projects
 
-### 🌟 [Umesh Portfolio](https://github.com/umeshtemburwar2002-alt/umesh-portfolio)
+### 🌟 [Umesh Portfolio](https://github.com/Umesh-Temburwar/umesh-portfolio)
 My personal developer portfolio built to showcase my projects, skills, and journey in software engineering.
 - **Tech Stack:** React, Frontend Technologies
-- **Source Code:** [umesh-portfolio Repository](https://github.com/umeshtemburwar2002-alt/umesh-portfolio)
+- **Source Code:** [umesh-portfolio Repository](https://github.com/Umesh-Temburwar/umesh-portfolio)
 
 *(More projects will be added here as they are developed and published.)*
 
@@ -88,11 +88,11 @@ My personal developer portfolio built to showcase my projects, skills, and journ
 ## 📈 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umeshtemburwar2002-alt&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3" alt="Umesh's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Umesh-Temburwar&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3" alt="Umesh's GitHub stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umeshtemburwar2002-alt&theme=transparent&hide_border=true&stroke=0000&ring=2196F3&fire=2196F3&currStreakNum=2196F3" alt="Umesh's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umesh-Temburwar&theme=transparent&hide_border=true&stroke=0000&ring=2196F3&fire=2196F3&currStreakNum=2196F3" alt="Umesh's GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umeshtemburwar2002-alt&layout=compact&theme=transparent&hide_border=true&title_color=2196F3" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umesh-Temburwar&layout=compact&theme=transparent&hide_border=true&title_color=2196F3" alt="Top Languages" />
 </div>
 
 > **Note:** Statistics are pulled dynamically using external services (GitHub Readme Stats & Streak Stats). They may occasionally fail to load due to rate limits or API availability.
@@ -147,7 +147,7 @@ I am actively expanding my knowledge in the following areas:
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/umeshtemburwar2002-alt" target="_blank">
+  <a href="https://github.com/Umesh-Temburwar" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:umeshtemburwar2002@gmail.com" target="_blank">
