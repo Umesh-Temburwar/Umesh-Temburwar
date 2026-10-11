@@ -1,159 +1,143 @@
+<!-- ===================== HEADER ===================== -->
 <div align="center">
-  <h1>Hi, I'm Umesh Temburwar 👋</h1>
-  <h3>Computer Science Engineer | Aspiring Software Engineer | Full-Stack Developer</h3>
-  
-  <p>
-    Welcome to my GitHub profile! I am a passionate computer science student dedicated to building robust applications, exploring new technologies, and constantly expanding my engineering skill set.
-  </p>
 
-  <p>
-    <a href="https://github.com/Umesh-Temburwar">
-      <img src="https://komarev.com/ghpvc/?username=Umesh-Temburwar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-    </a>
-  </p>
-  
-  <!-- Typing SVG (Animated text fallback) -->
-  <a href="https://github.com/Umesh-Temburwar">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&lines=B.Tech+CSE+Student;Full-Stack+Web+Developer;Exploring+AI%2FML+%26+Cloud;Always+Learning+and+Building" alt="Typing SVG" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Umesh%20Temburwar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CSE%20Graduate%20%7C%20Aspiring%20Software%20Engineer&descSize=17&descAlignY=60&animation=fadeIn" alt="Header" width="100%" />
+
+<a href="https://github.com/Umesh-Temburwar">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+scalable+full-stack+web+apps;React+%7C+Node.js+%7C+TypeScript+%7C+MongoDB;Exploring+AI%2FML+%26+Cloud+Computing;Always+learning.+Always+shipping" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- ===================== SOCIAL LINKS ===================== -->
+
+<a href="mailto:umeshtemburwar2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/Umesh-Temburwar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.instagram.com/umesh_temburwar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.linkedin.com/in/umesh-temburwar-673555373/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://umeshtemburwar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2c5364?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Umesh-Temburwar&label=Profile%20Views&color=2c5364&style=flat-square" alt="Profile Views" />
+
 </div>
 
 ---
 
-## 🙋‍♂️ About Me
+## 👨‍💻 About Me
 
-I have a strong foundation in **Computer Science and Engineering**, and I am highly interested in software development and building useful applications. My journey in tech involves continuous learning across various domains:
+I'm **Umesh Temburwar**, a Computer Science & Engineering graduate from **M.B.E. Society's College of Engineering, Ambajogai**, affiliated with Dr. Babasaheb Ambedkar Technological University (DBATU).
 
-- 🎓 **Background:** Currently pursuing my B.Tech in Computer Science and Engineering.
-- 💻 **Interests:** I enjoy programming, full-stack web development, database management, and strengthening my computer science fundamentals.
-- 🚀 **Exploring:** I am increasingly fascinated by AI/ML, cloud computing, and data engineering.
-- 🎯 **Goal:** My primary objective is to continuously improve my problem-solving abilities and engineering skills to become a proficient software engineer.
+I'm passionate about building responsive web applications and solving real-world problems through technology. My interests include full-stack development, software engineering, databases, and cloud computing.
 
----
-
-## 🛠️ Technical Skills
-
-Here are the technologies and tools I work with:
-
-### Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
-
-### Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</p>
-
-### Backend Development & Databases
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-</p>
-
-### Developer Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
+| | |
+|---|---|
+| 🎓 **Education** | B.Tech in Computer Science & Engineering (2022–2026) |
+| 💻 **Development** | Full-stack web development |
+| 🛠️ **Technologies** | React.js, JavaScript, TypeScript, Node.js, SQL |
+| 🚀 **Projects** | Developer Portfolio, Coredev Academy, Inventory Management System, ByteFest 2K25 |
+| ☁️ **Exploring** | Data Structures & Algorithms, AI/ML, Cloud Computing |
+| 🎯 **Goal** | Grow into a skilled software engineer and build impactful technology |
+| 📫 **Reach me** | [umeshtemburwar2002@gmail.com](mailto:umeshtemburwar2002@gmail.com) |
 
 ---
 
-## 💻 Featured Projects
+## 🛠️ Tech Stack
 
-### 🌟 [Umesh Portfolio](https://github.com/Umesh-Temburwar/umesh-portfolio)
-My personal developer portfolio built to showcase my projects, skills, and journey in software engineering.
-- **Tech Stack:** React, Frontend Technologies
-- **Source Code:** [umesh-portfolio Repository](https://github.com/Umesh-Temburwar/umesh-portfolio)
+**Languages**
 
-*(More projects will be added here as they are developed and published.)*
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-## 📈 GitHub Statistics
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 🌐 [**Developer Portfolio**](https://umeshtemburwar.vercel.app/) | Personal portfolio showcasing my projects, skills, and journey in software engineering. | React |
+| 🎓 **Coredev Academy** | EdTech learning platform with courses, quizzes, assignments, certificates, and role-based React dashboards backed by Node/Express APIs. | React · Node.js · Express · Supabase |
+| 📦 **Inventory Management System** | Full-stack application for tracking stock, managing items, and streamlining inventory workflows. | React · Node.js · MongoDB |
+| 🏆 **ByteFest 2K25 Website** | Official website for the ByteFest 2K25 technical fest, where I served as website developer and core organizer. | Web |
+
+> 🔗 *Add repository links to the projects above as you publish them.*
+
+---
+
+## 📜 Certifications
+
+| Certification | Issuer | Completed |
+|---|---|---|
+| Data Engineering on AWS – Foundations | AWS Training & Certification | Dec 3, 2025 |
+| Fundamentals of Machine Learning and Artificial Intelligence | AWS Training & Certification | Nov 17, 2025 |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Umesh-Temburwar&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3" alt="Umesh's GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umesh-Temburwar&theme=transparent&hide_border=true&stroke=0000&ring=2196F3&fire=2196F3&currStreakNum=2196F3" alt="Umesh's GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umesh-Temburwar&layout=compact&theme=transparent&hide_border=true&title_color=2196F3" alt="Top Languages" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Umesh-Temburwar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umesh-Temburwar&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Umesh-Temburwar&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
+
 </div>
-
-> **Note:** Statistics are pulled dynamically using external services (GitHub Readme Stats & Streak Stats). They may occasionally fail to load due to rate limits or API availability.
-
----
-
-## 🧠 Coding Profiles
-
-I practice problem-solving and algorithmic thinking on these platforms:
-*(Links will be updated as my profiles become publicly available)*
-
-- <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" /> `[Add Link Here]`
-- <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank" /> `[Add Link Here]`
-- <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=flat&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /> `[Add Link Here]`
 
 ---
 
 ## 🌱 Currently Learning
 
-I am actively expanding my knowledge in the following areas:
-- Data Structures and Algorithms
-- Computer Science Fundamentals
-- Full-Stack Web Development
-- Database Management and SQL
-- AI/ML Fundamentals
-- Cloud Computing and Data Engineering
+- 🧮 Data Structures & Algorithms
+- 🗄️ Advanced SQL & database design
+- ☁️ Cloud computing & data engineering
+- 🤖 AI/ML fundamentals
 
 ---
 
-## 📜 Certifications and Training
+## 🤝 Let's Connect
 
-- **Data Engineering on AWS – Foundations**
-  - *Issuer:* AWS Training & Certification
-  - *Completion Date:* December 3, 2025
-  - *[View Certificate](public/certificates/data-engineering-aws-foundations.pdf) (Note: PDF must be uploaded to this repo's `public/certificates/` folder to be viewable).*
+I'm open to software development opportunities, collaborations, and conversations about web development and technology.
 
-- **Fundamentals of Machine Learning and Artificial Intelligence**
-  - *Issuer:* AWS Training & Certification
-  - *Completion Date:* November 17, 2025
-  - *[View Certificate](public/certificates/aws-fundamentals-machine-learning-artificial-intelligence.pdf) (Note: PDF must be uploaded to this repo's `public/certificates/` folder to be viewable).*
+<div align="center">
 
----
+<a href="mailto:umeshtemburwar2002@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" /></a>
+<a href="https://github.com/Umesh-Temburwar"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.instagram.com/umesh_temburwar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.linkedin.com/in/umesh-temburwar-673555373/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://umeshtemburwar.vercel.app/"><img src="https://img.shields.io/badge/Visit_My_Portfolio-2c5364?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" /></a>
 
-## 🎓 Education
+<br/><br/>
 
-**Bachelor of Technology (B.Tech)**
-- **Branch:** Computer Science and Engineering
-- **Institution:** MBE Society's College of Engineering, Ambajogai, Maharashtra
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" alt="Footer" width="100%" />
 
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/Umesh-Temburwar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:umeshtemburwar2002@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.instagram.com/umesh_temburwar/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+</div>
