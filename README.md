@@ -25,7 +25,7 @@
 
 <!-- Profile views & Followers -->
 <a href="https://github.com/Umesh-Temburwar">
-  <img src="https://komarev.com/ghpvc/?username=Umesh-Temburwar&label=Profile%20Views&color=2c5364&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Umesh-Temburwar&color=2c5364&style=flat-square" alt="Profile Views" />
 </a>
 <a href="https://github.com/Umesh-Temburwar?tab=followers">
   <img src="https://img.shields.io/github/followers/Umesh-Temburwar?label=Followers&logo=github&style=flat-square&color=2c5364" alt="Followers" />
