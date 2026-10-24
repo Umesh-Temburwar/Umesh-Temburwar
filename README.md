@@ -40,6 +40,8 @@
 
 ## 👨‍💻 About Me
 
+<img align="right" alt="Coding Illustration" src="./profile_animation.png" width="340" />
+
 I'm **Umesh Temburwar**, a Computer Science & Engineering graduate from **M.B.E. Society's College of Engineering, Ambajogai**, affiliated with Dr. Babasaheb Ambedkar Technological University (DBATU).
 
 I'm passionate about building responsive web applications and solving real-world problems through technology. My interests include full-stack development, software engineering, databases, and cloud computing.
@@ -53,6 +55,8 @@ I'm passionate about building responsive web applications and solving real-world
 | ☁️ **Exploring** | Data Structures & Algorithms, AI/ML, Cloud Computing |
 | 🎯 **Goal** | Grow into a skilled software engineer and build impactful technology |
 | 📫 **Reach me** | [umeshtemburwar2002@gmail.com](mailto:umeshtemburwar2002@gmail.com) |
+
+<br clear="both"/>
 
 ---
 
@@ -148,6 +152,38 @@ I'm passionate about building responsive web applications and solving real-world
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umesh-Temburwar&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Contribution Streak" />
 </a>
 
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!--                   3D CONTRIBUTION SKYLINE                    -->
+<!-- ============================================================ -->
+
+## 🏙️ 3D Contribution Skyline
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Umesh's 3D Contribution Skyline" width="100%" />
+  </picture>
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!--                 CONTRIBUTION SNAKE GRAPH                     -->
+<!-- ============================================================ -->
+
+## 🐍 Contribution Graph & Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Umesh-Temburwar/Umesh-Temburwar/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Umesh-Temburwar/Umesh-Temburwar/output/github-contribution-grid-snake.svg">
+    <img alt="Umesh's Contribution Snake Animation" src="https://raw.githubusercontent.com/Umesh-Temburwar/Umesh-Temburwar/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </div>
 
 ---
