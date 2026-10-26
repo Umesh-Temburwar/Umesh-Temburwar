@@ -51,7 +51,7 @@ I'm passionate about building responsive web applications and solving real-world
 | 🎓 **Education** | B.Tech in Computer Science & Engineering (2022–2026) |
 | 💻 **Development** | Full-stack web development |
 | 🛠️ **Technologies** | React.js, JavaScript, TypeScript, Node.js, SQL |
-| 🚀 **Projects** | Developer Portfolio, Coredev Academy, Inventory Management System, ByteFest 2K25 |
+| 🚀 **Projects** | Universal Job Apply Bot, Developer Portfolio, Coredev Academy, Inventory Management System, ByteFest 2K25 |
 | ☁️ **Exploring** | Data Structures & Algorithms, AI/ML, Cloud Computing |
 | 🎯 **Goal** | Grow into a skilled software engineer and build impactful technology |
 | 📫 **Reach me** | [umeshtemburwar2002@gmail.com](mailto:umeshtemburwar2002@gmail.com) |
@@ -89,6 +89,7 @@ I'm passionate about building responsive web applications and solving real-world
 
 **Backend & Databases**
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -100,6 +101,7 @@ I'm passionate about building responsive web applications and solving real-world
 
 **Tools**
 
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -115,6 +117,7 @@ I'm passionate about building responsive web applications and solving real-world
 
 | Project | Description | Tech |
 |---|---|---|
+| 🤖 [**Universal Job Apply Bot**](https://github.com/Umesh-Temburwar/universal-job-apply-bot) | Full-stack job application automation platform with stealth browser runners, FastAPI backend, and React dashboard. | Python · Selenium · FastAPI · React · Supabase |
 | 🌐 [**Developer Portfolio**](https://umeshtemburwar.vercel.app/) | Personal portfolio showcasing my projects, skills, and journey in software engineering. | React |
 | 🎓 **EdTech Learning Platform** | Learning platform with courses, quizzes, assignments, certificates, and role-based React dashboards backed by Node/Express APIs. | React · Node.js · Express · Supabase |
 | 📦 **Inventory Management System** | Full-stack application for tracking stock, managing items, and streamlining inventory workflows. | React · Node.js · MongoDB |
